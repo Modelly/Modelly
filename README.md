@@ -21,8 +21,10 @@
   A Modelly está aqui para transformar o mercado de arte, oferecendo oportunidades de negócio e impactando positivamente a sociedade. Junte-se a nós nessa jornada emocionante e descubra o potencial ilimitado da arte brasileira. Modelly conectando artistas e encantando o mundo!
 </p>
 
-## 👥Conheça mais a gente!
-<a href="https://instagram.com/modelly_art" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/company/modellyart" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<div align="center">
+   <h2>Conheça mais a gente!</h2>
+   <a href="https://instagram.com/modelly_art" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.linkedin.com/company/modellyart" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800&height=100&section=footer"/>
