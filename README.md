@@ -1,11 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDDB5&height=100&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD8AA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem+Vindo+a+Modelly!;Conectando+artistas,+encantando+o+mundo!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800&height=100&section=header"/>
 
 <div align="center">
-   <img src="https://github.com/Modelly/Modelly/assets/168938532/422ca8ff-0bfa-469c-984a-c4cd7bdd955a" width="350px" />
+   <img src="https://github.com/Modelly/Modelly/assets/168938532/f0b95484-be0f-441b-9751-7679633878a2" width="550px" />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF3E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem+Vindo+a+Modelly!;Conectando+artistas,+encantando+o+mundo!)](https://git.io/typing-svg)
 
 <h3>💛 O que é a Modelly?</h3>
 <p>
@@ -25,3 +24,5 @@
 ## 👥Conheça mais a gente!
 <a href="https://instagram.com/modelly_art" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/company/modellyart" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800&height=100&section=footer"/>
