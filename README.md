@@ -24,6 +24,7 @@
 <div align="center">
    <h2>Conheça mais a gente!</h2>
    <a href="https://instagram.com/modelly_art" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://linktr.ee/modelly_art" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
    <a href="https://www.linkedin.com/company/modellyart" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
 
