@@ -1,15 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDAB9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDDB5&height=180&section=header&text=Modelly&fontSize=50&fontColor=800000&fontAlignY=35"/>
 
-<h1>Bem vindo a <span style="color=FFFBE3">Modelly</span>! 🖐️</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD8AA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem+Vindo+a+Modelly!;Conectando+artistas,+encantando+o+mundo!)](https://git.io/typing-svg)
 
+<h3>💛 O que é a Modelly?</h3>
 <p>
    Imagine um lugar onde a criatividade ganha vida de uma forma totalmente única e emocionante. Bem-vindo à Modelly, uma plataforma inovadora que está revolucionando a maneira como compramos e vendemos arte no Brasil.
 </p>
 
+<h3>💛 O que fazemos?</h3>
 <p>
   Nós não estamos apenas conectando pessoas apaixonadas por arte - estamos oferecendo uma experiência imersiva que vai além do comum. Imagine-se explorando feiras virtuais como se você estivesse lá pessoalmente, stands virtuais, produtos com imagens em 360º. Com a Modelly, você pode mergulhar no mundo da arte como nunca.
 </p>
 
+<h3>💛 Qual nossa importância?</h3>
 <p>
   A Modelly está aqui para transformar o mercado de arte, oferecendo oportunidades de negócio e impactando positivamente a sociedade. Junte-se a nós nessa jornada emocionante e descubra o potencial ilimitado da arte brasileira. Modelly conectando artistas e encantando o mundo!
 </p>
