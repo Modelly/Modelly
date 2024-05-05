@@ -1,6 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDDB5&height=180&section=header&text=Modelly&fontSize=50&fontColor=800000&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDDB5&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD8AA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem+Vindo+a+Modelly!;Conectando+artistas,+encantando+o+mundo!)](https://git.io/typing-svg)
+
+<div align="center">
+   <img src="https://github.com/Modelly/Modelly/assets/168938532/422ca8ff-0bfa-469c-984a-c4cd7bdd955a" width="350px" />
+</div>
+
 
 <h3>💛 O que é a Modelly?</h3>
 <p>
