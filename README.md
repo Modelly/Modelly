@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800&height=100&section=header"/>
 
 <div align="center">
-   <img src="https://github.com/Modelly/Modelly/assets/168938532/f0b95484-be0f-441b-9751-7679633878a2" width="550px" />
+   <img src="https://github.com/Modelly/Modelly/assets/168938532/23e23f34-4201-4579-be4b-56ec83d0bc64" width="550px" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF3E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem+Vindo+a+Modelly!;Conectando+artistas,+encantando+o+mundo!)](https://git.io/typing-svg)
