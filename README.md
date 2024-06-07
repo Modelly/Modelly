@@ -5,7 +5,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF3E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem+Vindo+a+Modelly!;Conectando+artistas,+encantando+o+mundo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9E8FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Bem+Vindo+a+Modelly!;Conectando+artistas,+encantando+o+mundo!)](https://git.io/typing-svg)
 
 <h3>💜 O que é a Modelly?</h3>
 <p>
